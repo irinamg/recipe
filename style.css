@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 245, 187);
+
+}
+
+.heading {
+    margin-left: 53rem;
+    color: blueviolet;
+    font-family: 'Roboto Mono', monospace;
+
+
+}
+.Ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 40px;
+
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin-left: 23rem;
+    color: rgb(226, 14, 32);
+    
+}
+
+.instructions{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: brown;
+
+}
+
+.instructions ol {
+    margin: 0 auto;
+    width: 75%;
+    border: 1px solid rgb(197, 22, 188);
+}
+
+.footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(212, 95, 17);
+    font-size: 1rem;
+    text-align: center;
+
+}
